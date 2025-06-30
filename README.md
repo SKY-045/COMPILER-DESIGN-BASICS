@@ -119,3 +119,6 @@ Implement functions like sin(), cos(), etc.
 
 Conclusion
 This mini arithmetic expression compiler in C++ is a powerful demonstration of recursive descent parsing, one of the most fundamental techniques in compiler construction. Despite its simplicity, the program handles complex mathematical expressions with correct precedence and associativity. It's an excellent educational tool for understanding parsing, compiler design principles, and expression evaluation in programming languages.
+
+# output
+![Image](https://github.com/user-attachments/assets/928f9c0a-02cd-4c16-b24c-6c607927d0a6)
